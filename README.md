@@ -43,6 +43,3 @@ License
 MIT
 
 
-Then save the file: `Cmd + S`
-
----
